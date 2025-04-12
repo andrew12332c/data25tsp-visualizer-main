@@ -8,7 +8,7 @@ export const getCapitalsGeoJSON = (data) => new GeoJsonLayer({
   pointRadiusMaxPixels: 200,
   opacity: 1,
   pointRadiusScale: 0.3,
-  getPointRadius: 10 ** 3,
+  getPointRadius: () => 1, // or any desired radius
   getFillColor: [255, 70, 30, 180],
   autoHighlight: true,
   transitions: {
@@ -30,7 +30,7 @@ export const getStartingPointLayer = (point) => new GeoJsonLayer({
   pointRadiusMaxPixels: 200,
   opacity: 1,
   pointRadiusScale: 0.3,
-  getPointRadius: 10 ** 3,
+  getPointRadius: () => 1, // or any desired radius
   getFillColor: [255, 255, 0, 255],
   autoHighlight: true,
   transitions: {

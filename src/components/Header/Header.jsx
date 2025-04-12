@@ -184,7 +184,6 @@ function Header({
           <option value="SOUTH_AMERICA">South America</option>
           <option value="ASIA">Asia</option>
         </Select>
-
         <Flex justify="center" align="center" style={{ width: 650 }}>
           Start location:
           {' '}
