@@ -1,7 +1,7 @@
 {
   "name": "shortest-path",
   // "homepage": "https://github.com/andrew12332c/shortestpath",
-  "homepage": "https://andrew12332c.github.io/shortestpath",
+  "homepage": "https://data25tsp-visualizer-main.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
