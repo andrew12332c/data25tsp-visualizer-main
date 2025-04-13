@@ -177,12 +177,12 @@ function Header({
             }
           }}
         >
-          <option value="USA">United States of America</option>
-          <option value="ROME">The Roman Empire</option>
-          <option value="EUROPE">Europe</option>
-          <option value="AFRICA">Africa</option>
-          <option value="SOUTH_AMERICA">South America</option>
-          <option value="ASIA">Asia</option>
+          <option value="USA">Irvine,CA</option>
+          <option value="ROME">Imperium Romanum</option>
+          <option value="EUROPE">Euro Odyssey</option>
+          <option value="AFRICA">Saharan Sprawl</option>
+          <option value="SOUTH_AMERICA">Narcos Film Locations</option>
+          <option value="ASIA"> IShowSpeed Asia Locations</option>
         </Select>
         <Flex justify="center" align="center" style={{ width: 650 }}>
           Start location:
