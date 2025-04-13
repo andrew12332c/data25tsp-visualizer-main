@@ -3,67 +3,67 @@ const usaCapitals = {
   features: [
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83615445297524, 33.64311692661153] },
+      geometry: { type: 'Point', coordinates: [-117.8395293, 33.6435655] },
       properties: { state: 'California', capital: 'Record 1' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84135441597259, 33.640261834898695] },
+      geometry: { type: 'Point', coordinates: [-117.8413544, 33.640261834898695] },
       properties: { state: 'California', capital: 'Record 2' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84124555636055, 33.634869699999996] },
+      geometry: { type: 'Point', coordinates: [-117.8412456, 33.634869699999996] },
       properties: { state: 'California', capital: 'Record 3' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83538429178017, 33.640615350000004] },
+      geometry: { type: 'Point', coordinates: [-117.8353843, 33.640615350000004] },
       properties: { state: 'California', capital: 'Record 4' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84035644758018, 33.6352944] },
+      geometry: { type: 'Point', coordinates: [-117.8403564, 33.6352944] },
       properties: { state: 'California', capital: 'Record 5' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84254078180363, 33.636262099999996] },
+      geometry: { type: 'Point', coordinates: [-117.8425408, 33.636262099999996] },
       properties: { state: 'California', capital: 'Record 6' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83440540331019, 33.640471500000004] },
+      geometry: { type: 'Point', coordinates: [-117.8344054, 33.640471500000004] },
       properties: { state: 'California', capital: 'Record 7' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84047369904789, 33.638944] },
+      geometry: { type: 'Point', coordinates: [-117.8404737, 33.638944] },
       properties: { state: 'California', capital: 'Record 8' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84061399409455, 33.63473455] },
+      geometry: { type: 'Point', coordinates: [-117.840614, 33.63473455] },
       properties: { state: 'California', capital: 'Record 9' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84366195291815, 33.6383338] },
+      geometry: { type: 'Point', coordinates: [-117.843662, 33.6383338] },
       properties: { state: 'California', capital: 'Record 10' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8403626569077, 33.635763350000005] },
+      geometry: { type: 'Point', coordinates: [-117.8403627, 33.635763350000005] },
       properties: { state: 'California', capital: 'Record 11' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84024267398222, 33.63686179923934] },
+      geometry: { type: 'Point', coordinates: [-117.8402427, 33.63686179923934] },
       properties: { state: 'California', capital: 'Record 12' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8409130359589, 33.6365964] },
+      geometry: { type: 'Point', coordinates: [-117.840913, 33.6365964] },
       properties: { state: 'California', capital: 'Record 13' },
     },
     {
@@ -73,22 +73,22 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84221535524433, 33.6363898419547] },
+      geometry: { type: 'Point', coordinates: [-117.8422154, 33.63638984] },
       properties: { state: 'California', capital: 'Record 15' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83675418332035, 33.63974581063713] },
+      geometry: { type: 'Point', coordinates: [-117.8367542, 33.63974581063713] },
       properties: { state: 'California', capital: 'Record 16' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84259469603299, 33.63810615] },
+      geometry: { type: 'Point', coordinates: [-117.8425947, 33.63810615] },
       properties: { state: 'California', capital: 'Record 17' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83837454038604, 33.6370747] },
+      geometry: { type: 'Point', coordinates: [-117.8383745, 33.6370747] },
       properties: { state: 'California', capital: 'Record 18' },
     },
     {
@@ -98,12 +98,12 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8413177437533, 33.64022051408822] },
+      geometry: { type: 'Point', coordinates: [-117.8413177, 33.64022051408822] },
       properties: { state: 'California', capital: 'Record 20' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84405411606647, 33.638635550000004] },
+      geometry: { type: 'Point', coordinates: [-117.8440541, 33.638635550000004] },
       properties: { state: 'California', capital: 'Record 21' },
     },
     {
@@ -113,47 +113,47 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84226339443288, 33.636465841394866] },
+      geometry: { type: 'Point', coordinates: [-117.8422634, 33.636465841394866] },
       properties: { state: 'California', capital: 'Record 23' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84152593814149, 33.64017804810453] },
+      geometry: { type: 'Point', coordinates: [-117.8415259, 33.64017804810453] },
       properties: { state: 'California', capital: 'Record 24' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84130857569848, 33.6402101838856] },
+      geometry: { type: 'Point', coordinates: [-117.8413086, 33.64021018] },
       properties: { state: 'California', capital: 'Record 25' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83861715386935, 33.6397932] },
+      geometry: { type: 'Point', coordinates: [-117.8386172, 33.6397932] },
       properties: { state: 'California', capital: 'Record 26' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8380789619084, 33.6380155] },
+      geometry: { type: 'Point', coordinates: [-117.838079, 33.6380155] },
       properties: { state: 'California', capital: 'Record 27' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83365699429348, 33.63972235] },
+      geometry: { type: 'Point', coordinates: [-117.833657, 33.63972235] },
       properties: { state: 'California', capital: 'Record 28' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83450887845623, 33.6401273] },
+      geometry: { type: 'Point', coordinates: [-117.8345089, 33.6401273] },
       properties: { state: 'California', capital: 'Record 29' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83774466689795, 33.638269449999996] },
+      geometry: { type: 'Point', coordinates: [-117.8377447, 33.638269449999996] },
       properties: { state: 'California', capital: 'Record 30' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83945398579334, 33.641689949549196] },
+      geometry: { type: 'Point', coordinates: [-117.839454, 33.641689949549196] },
       properties: { state: 'California', capital: 'Record 31' },
     },
     {
@@ -163,67 +163,67 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83793376798752, 33.63673085] },
+      geometry: { type: 'Point', coordinates: [-117.8379338, 33.63673085] },
       properties: { state: 'California', capital: 'Record 33' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83839866129202, 33.63901104999999] },
+      geometry: { type: 'Point', coordinates: [-117.8383987, 33.63901104999999] },
       properties: { state: 'California', capital: 'Record 34' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84042116015603, 33.63677571105559] },
+      geometry: { type: 'Point', coordinates: [-117.8404212, 33.63677571105559] },
       properties: { state: 'California', capital: 'Record 35' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8414029988096, 33.63479435] },
+      geometry: { type: 'Point', coordinates: [-117.841403, 33.63479435] },
       properties: { state: 'California', capital: 'Record 36' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83840848599999, 33.63829] },
+      geometry: { type: 'Point', coordinates: [-117.8384085, 33.63829] },
       properties: { state: 'California', capital: 'Record 37' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84250621452179, 33.6390815] },
+      geometry: { type: 'Point', coordinates: [-117.8425062, 33.6390815] },
       properties: { state: 'California', capital: 'Record 38' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84367950704699, 33.63856065] },
+      geometry: { type: 'Point', coordinates: [-117.8436795, 33.63856065] },
       properties: { state: 'California', capital: 'Record 39' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84243545412747, 33.63858745] },
+      geometry: { type: 'Point', coordinates: [-117.8424355, 33.63858745] },
       properties: { state: 'California', capital: 'Record 40' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84194816049492, 33.6404565] },
+      geometry: { type: 'Point', coordinates: [-117.8419482, 33.6404565] },
       properties: { state: 'California', capital: 'Record 41' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84194113010598, 33.64032397790374] },
+      geometry: { type: 'Point', coordinates: [-117.8419411, 33.64032397790374] },
       properties: { state: 'California', capital: 'Record 42' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.839548721509, 33.6407677] },
+      geometry: { type: 'Point', coordinates: [-117.8395487, 33.6407677] },
       properties: { state: 'California', capital: 'Record 43' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83675048161162, 33.63974130752753] },
+      geometry: { type: 'Point', coordinates: [-117.8367505, 33.63974130752753] },
       properties: { state: 'California', capital: 'Record 44' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84181944842206, 33.63507185] },
+      geometry: { type: 'Point', coordinates: [-117.8418194, 33.63507185] },
       properties: { state: 'California', capital: 'Record 45' },
     },
     {
@@ -233,27 +233,27 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.839612650066, 33.64156115] },
+      geometry: { type: 'Point', coordinates: [-117.8396127, 33.64156115] },
       properties: { state: 'California', capital: 'Record 47' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83589892934091, 33.64087615] },
+      geometry: { type: 'Point', coordinates: [-117.8358989, 33.64087615] },
       properties: { state: 'California', capital: 'Record 48' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83759500435428, 33.63726525] },
+      geometry: { type: 'Point', coordinates: [-117.837595, 33.63726525] },
       properties: { state: 'California', capital: 'Record 49' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8390840944871, 33.6392534] },
+      geometry: { type: 'Point', coordinates: [-117.8390841, 33.6392534] },
       properties: { state: 'California', capital: 'Record 50' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84364551141425, 33.63921035] },
+      geometry: { type: 'Point', coordinates: [-117.8436455, 33.63921035] },
       properties: { state: 'California', capital: 'Record 51' },
     },
     {
@@ -263,17 +263,17 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8413223277807, 33.64022567918953] },
+      geometry: { type: 'Point', coordinates: [-117.8413223, 33.64022567918953] },
       properties: { state: 'California', capital: 'Record 53' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83939099184373, 33.642171813628444] },
+      geometry: { type: 'Point', coordinates: [-117.839391, 33.642171813628444] },
       properties: { state: 'California', capital: 'Record 54' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83468930654362, 33.640198350000006] },
+      geometry: { type: 'Point', coordinates: [-117.8346893, 33.640198350000006] },
       properties: { state: 'California', capital: 'Record 55' },
     },
     {
@@ -283,77 +283,77 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83349238328026, 33.639628099999996] },
+      geometry: { type: 'Point', coordinates: [-117.8334924, 33.639628099999996] },
       properties: { state: 'California', capital: 'Record 57' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8393646982473, 33.64238605] },
+      geometry: { type: 'Point', coordinates: [-117.8393647, 33.64238605] },
       properties: { state: 'California', capital: 'Record 58' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83824021839187, 33.638491349999995] },
+      geometry: { type: 'Point', coordinates: [-117.8382402, 33.638491349999995] },
       properties: { state: 'California', capital: 'Record 59' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83941319258459, 33.64217162548657] },
+      geometry: { type: 'Point', coordinates: [-117.8394132, 33.64217162548657] },
       properties: { state: 'California', capital: 'Record 60' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84236813946944, 33.639583099999996] },
+      geometry: { type: 'Point', coordinates: [-117.8423681, 33.639583099999996] },
       properties: { state: 'California', capital: 'Record 61' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83947610988845, 33.64169180230593] },
+      geometry: { type: 'Point', coordinates: [-117.8394761, 33.64169180230593] },
       properties: { state: 'California', capital: 'Record 62' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83746871737745, 33.63838285] },
+      geometry: { type: 'Point', coordinates: [-117.8374687, 33.63838285] },
       properties: { state: 'California', capital: 'Record 63' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83962768960912, 33.642079657554994] },
+      geometry: { type: 'Point', coordinates: [-117.8396277, 33.642079657554994] },
       properties: { state: 'California', capital: 'Record 64' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83915540825657, 33.63967605] },
+      geometry: { type: 'Point', coordinates: [-117.8391554, 33.63967605] },
       properties: { state: 'California', capital: 'Record 65' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83964972478978, 33.641970858850435] },
+      geometry: { type: 'Point', coordinates: [-117.8396497, 33.641970858850435] },
       properties: { state: 'California', capital: 'Record 66' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84082002401095, 33.6346601] },
+      geometry: { type: 'Point', coordinates: [-117.84082, 33.6346601] },
       properties: { state: 'California', capital: 'Record 67' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83966645530403, 33.64183887061225] },
+      geometry: { type: 'Point', coordinates: [-117.8396665, 33.64183887061225] },
       properties: { state: 'California', capital: 'Record 68' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83809843060764, 33.64147836519137] },
+      geometry: { type: 'Point', coordinates: [-117.8380984, 33.64147836519137] },
       properties: { state: 'California', capital: 'Record 69' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84168133048388, 33.6355716] },
+      geometry: { type: 'Point', coordinates: [-117.8416813, 33.6355716] },
       properties: { state: 'California', capital: 'Record 70' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84008458764045, 33.64113665] },
+      geometry: { type: 'Point', coordinates: [-117.8400846, 33.64113665] },
       properties: { state: 'California', capital: 'Record 71' },
     },
     {
@@ -363,12 +363,12 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83986434854963, 33.640613450000004] },
+      geometry: { type: 'Point', coordinates: [-117.8398643, 33.640613450000004] },
       properties: { state: 'California', capital: 'Record 73' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83473122798978, 33.64065345] },
+      geometry: { type: 'Point', coordinates: [-117.8347312, 33.64065345] },
       properties: { state: 'California', capital: 'Record 74' },
     },
     {
@@ -378,12 +378,12 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83619655376285, 33.64107745] },
+      geometry: { type: 'Point', coordinates: [-117.8361966, 33.64107745] },
       properties: { state: 'California', capital: 'Record 76' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83433885678289, 33.64000045] },
+      geometry: { type: 'Point', coordinates: [-117.8343389, 33.64000045] },
       properties: { state: 'California', capital: 'Record 77' },
     },
     {
@@ -393,127 +393,127 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8426506194934, 33.639143399999995] },
+      geometry: { type: 'Point', coordinates: [-117.8426506, 33.639143399999995] },
       properties: { state: 'California', capital: 'Record 79' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84159130252323, 33.63478215] },
+      geometry: { type: 'Point', coordinates: [-117.8415913, 33.63478215] },
       properties: { state: 'California', capital: 'Record 80' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84199766122367, 33.636461875629244] },
+      geometry: { type: 'Point', coordinates: [-117.8419977, 33.636461875629244] },
       properties: { state: 'California', capital: 'Record 81' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83937704070638, 33.63975355] },
+      geometry: { type: 'Point', coordinates: [-117.839377, 33.63975355] },
       properties: { state: 'California', capital: 'Record 82' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84109568506007, 33.6349501] },
+      geometry: { type: 'Point', coordinates: [-117.8410957, 33.6349501] },
       properties: { state: 'California', capital: 'Record 83' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84351202916979, 33.6391311] },
+      geometry: { type: 'Point', coordinates: [-117.843512, 33.6391311] },
       properties: { state: 'California', capital: 'Record 84' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83608261176471, 33.6405312] },
+      geometry: { type: 'Point', coordinates: [-117.8360826, 33.6405312] },
       properties: { state: 'California', capital: 'Record 85' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83863321647874, 33.639426900000004] },
+      geometry: { type: 'Point', coordinates: [-117.8386332, 33.639426900000004] },
       properties: { state: 'California', capital: 'Record 86' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83952035807867, 33.6416955078194] },
+      geometry: { type: 'Point', coordinates: [-117.8395204, 33.64169551] },
       properties: { state: 'California', capital: 'Record 87' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83988748173263, 33.6396755] },
+      geometry: { type: 'Point', coordinates: [-117.8398875, 33.6396755] },
       properties: { state: 'California', capital: 'Record 88' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84183265232869, 33.63549485] },
+      geometry: { type: 'Point', coordinates: [-117.8418327, 33.63549485] },
       properties: { state: 'California', capital: 'Record 89' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83831296267086, 33.639496550000004] },
+      geometry: { type: 'Point', coordinates: [-117.838313, 33.639496550000004] },
       properties: { state: 'California', capital: 'Record 90' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83945275321759, 33.63991715] },
+      geometry: { type: 'Point', coordinates: [-117.8394528, 33.63991715] },
       properties: { state: 'California', capital: 'Record 91' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84065504518895, 33.635663949999994] },
+      geometry: { type: 'Point', coordinates: [-117.840655, 33.635663949999994] },
       properties: { state: 'California', capital: 'Record 92' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84039296402817, 33.63659067096868] },
+      geometry: { type: 'Point', coordinates: [-117.840393, 33.63659067096868] },
       properties: { state: 'California', capital: 'Record 93' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8405318158443, 33.638944] },
+      geometry: { type: 'Point', coordinates: [-117.8405318, 33.638944] },
       properties: { state: 'California', capital: 'Record 94' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84297619944871, 33.6375308] },
+      geometry: { type: 'Point', coordinates: [-117.8429762, 33.6375308] },
       properties: { state: 'California', capital: 'Record 95' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83903841140454, 33.63829015] },
+      geometry: { type: 'Point', coordinates: [-117.8390384, 33.63829015] },
       properties: { state: 'California', capital: 'Record 96' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83836757701252, 33.640103249999996] },
+      geometry: { type: 'Point', coordinates: [-117.8383676, 33.640103249999996] },
       properties: { state: 'California', capital: 'Record 97' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83998108249158, 33.635422] },
+      geometry: { type: 'Point', coordinates: [-117.8399811, 33.635422] },
       properties: { state: 'California', capital: 'Record 98' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84152387628299, 33.640174096209066] },
+      geometry: { type: 'Point', coordinates: [-117.8415239, 33.640174096209066] },
       properties: { state: 'California', capital: 'Record 99' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84225724062036, 33.63672263483871] },
+      geometry: { type: 'Point', coordinates: [-117.8422572, 33.63672263483871] },
       properties: { state: 'California', capital: 'Record 100' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83937664551448, 33.64077335] },
+      geometry: { type: 'Point', coordinates: [-117.8393766, 33.64077335] },
       properties: { state: 'California', capital: 'Record 101' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84134983194518, 33.64025666979738] },
+      geometry: { type: 'Point', coordinates: [-117.8413498, 33.64025666979738] },
       properties: { state: 'California', capital: 'Record 102' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83733525047361, 33.6384409] },
+      geometry: { type: 'Point', coordinates: [-117.8373353, 33.6384409] },
       properties: { state: 'California', capital: 'Record 103' },
     },
     {
@@ -528,32 +528,32 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84329452084478, 33.63954185] },
+      geometry: { type: 'Point', coordinates: [-117.8432945, 33.63954185] },
       properties: { state: 'California', capital: 'Record 106' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83689524357877, 33.63778615] },
+      geometry: { type: 'Point', coordinates: [-117.8368952, 33.63778615] },
       properties: { state: 'California', capital: 'Record 107' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.842433003315, 33.63606791729693] },
+      geometry: { type: 'Point', coordinates: [-117.842433, 33.63606791729693] },
       properties: { state: 'California', capital: 'Record 108' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83824768494497, 33.639073499999995] },
+      geometry: { type: 'Point', coordinates: [-117.8382477, 33.639073499999995] },
       properties: { state: 'California', capital: 'Record 109' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83926737274172, 33.64156525] },
+      geometry: { type: 'Point', coordinates: [-117.8392674, 33.64156525] },
       properties: { state: 'California', capital: 'Record 110' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84127740864704, 33.63447475] },
+      geometry: { type: 'Point', coordinates: [-117.8412774, 33.63447475] },
       properties: { state: 'California', capital: 'Record 111' },
     },
     {
@@ -563,22 +563,22 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83925861912769, 33.642158391399306] },
+      geometry: { type: 'Point', coordinates: [-117.8392586, 33.642158391399306] },
       properties: { state: 'California', capital: 'Record 113' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83957612263326, 33.64211778288806] },
+      geometry: { type: 'Point', coordinates: [-117.8395761, 33.64211778288806] },
       properties: { state: 'California', capital: 'Record 114' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83714010485534, 33.63758785] },
+      geometry: { type: 'Point', coordinates: [-117.8371401, 33.63758785] },
       properties: { state: 'California', capital: 'Record 115' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84261426852441, 33.6365833] },
+      geometry: { type: 'Point', coordinates: [-117.8426143, 33.6365833] },
       properties: { state: 'California', capital: 'Record 116' },
     },
     {
@@ -588,72 +588,72 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84065788281038, 33.6351825] },
+      geometry: { type: 'Point', coordinates: [-117.8406579, 33.6351825] },
       properties: { state: 'California', capital: 'Record 118' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84049098745875, 33.63673751692692] },
+      geometry: { type: 'Point', coordinates: [-117.840491, 33.63673751692692] },
       properties: { state: 'California', capital: 'Record 119' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83755498316262, 33.63874125] },
+      geometry: { type: 'Point', coordinates: [-117.837555, 33.63874125] },
       properties: { state: 'California', capital: 'Record 120' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84191039675241, 33.6385171] },
+      geometry: { type: 'Point', coordinates: [-117.8419104, 33.6385171] },
       properties: { state: 'California', capital: 'Record 121' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8383536310119, 33.6384262] },
+      geometry: { type: 'Point', coordinates: [-117.8383536, 33.6384262] },
       properties: { state: 'California', capital: 'Record 122' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84219416279743, 33.63892705] },
+      geometry: { type: 'Point', coordinates: [-117.8421942, 33.63892705] },
       properties: { state: 'California', capital: 'Record 123' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84023313918577, 33.636864639391476] },
+      geometry: { type: 'Point', coordinates: [-117.8402331, 33.636864639391476] },
       properties: { state: 'California', capital: 'Record 124' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84290502482867, 33.6387733] },
+      geometry: { type: 'Point', coordinates: [-117.842905, 33.6387733] },
       properties: { state: 'California', capital: 'Record 125' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83941285265342, 33.64010315] },
+      geometry: { type: 'Point', coordinates: [-117.8394129, 33.64010315] },
       properties: { state: 'California', capital: 'Record 126' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.843716672064, 33.63818835] },
+      geometry: { type: 'Point', coordinates: [-117.8437167, 33.63818835] },
       properties: { state: 'California', capital: 'Record 127' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83810702136068, 33.64141073857295] },
+      geometry: { type: 'Point', coordinates: [-117.838107, 33.64141073857295] },
       properties: { state: 'California', capital: 'Record 128' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84149410950349, 33.635182650000004] },
+      geometry: { type: 'Point', coordinates: [-117.8414941, 33.635182650000004] },
       properties: { state: 'California', capital: 'Record 129' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83602935178462, 33.64096135] },
+      geometry: { type: 'Point', coordinates: [-117.8360294, 33.64096135] },
       properties: { state: 'California', capital: 'Record 130' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83934675795766, 33.642169257830396] },
+      geometry: { type: 'Point', coordinates: [-117.8393468, 33.642169257830396] },
       properties: { state: 'California', capital: 'Record 131' },
     },
     {
@@ -663,7 +663,7 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.837325534122, 33.63738465] },
+      geometry: { type: 'Point', coordinates: [-117.8373255, 33.63738465] },
       properties: { state: 'California', capital: 'Record 133' },
     },
     {
@@ -673,32 +673,32 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8355341962939, 33.64073045] },
+      geometry: { type: 'Point', coordinates: [-117.8355342, 33.64073045] },
       properties: { state: 'California', capital: 'Record 135' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83489902895883, 33.64026495] },
+      geometry: { type: 'Point', coordinates: [-117.834899, 33.64026495] },
       properties: { state: 'California', capital: 'Record 136' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84021202398438, 33.63580295] },
+      geometry: { type: 'Point', coordinates: [-117.840212, 33.63580295] },
       properties: { state: 'California', capital: 'Record 137' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83879751596194, 33.64109] },
+      geometry: { type: 'Point', coordinates: [-117.8387975, 33.64109] },
       properties: { state: 'California', capital: 'Record 138' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84132819345638, 33.6375628] },
+      geometry: { type: 'Point', coordinates: [-117.8413282, 33.6375628] },
       properties: { state: 'California', capital: 'Record 139' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84166577647805, 33.635139699999996] },
+      geometry: { type: 'Point', coordinates: [-117.8416658, 33.635139699999996] },
       properties: { state: 'California', capital: 'Record 140' },
     },
     {
@@ -713,17 +713,17 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83858305044355, 33.6390127] },
+      geometry: { type: 'Point', coordinates: [-117.8385831, 33.6390127] },
       properties: { state: 'California', capital: 'Record 143' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83902656516337, 33.64074675] },
+      geometry: { type: 'Point', coordinates: [-117.8390266, 33.64074675] },
       properties: { state: 'California', capital: 'Record 144' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84190259144643, 33.640305542037495] },
+      geometry: { type: 'Point', coordinates: [-117.8419026, 33.640305542037495] },
       properties: { state: 'California', capital: 'Record 145' },
     },
     {
@@ -733,17 +733,17 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8403686814904, 33.63660285396014] },
+      geometry: { type: 'Point', coordinates: [-117.8403687, 33.63660285396014] },
       properties: { state: 'California', capital: 'Record 147' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8393493830599, 33.64111665] },
+      geometry: { type: 'Point', coordinates: [-117.8393494, 33.64111665] },
       properties: { state: 'California', capital: 'Record 148' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83872264008747, 33.638910100000004] },
+      geometry: { type: 'Point', coordinates: [-117.8387226, 33.638910100000004] },
       properties: { state: 'California', capital: 'Record 149' },
     },
     {
@@ -758,37 +758,37 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83501921411343, 33.640865899999994] },
+      geometry: { type: 'Point', coordinates: [-117.8350192, 33.640865899999994] },
       properties: { state: 'California', capital: 'Record 152' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8418430214125, 33.63648465] },
+      geometry: { type: 'Point', coordinates: [-117.841843, 33.63648465] },
       properties: { state: 'California', capital: 'Record 153' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8418957957232, 33.64029127101875] },
+      geometry: { type: 'Point', coordinates: [-117.8418958, 33.64029127101875] },
       properties: { state: 'California', capital: 'Record 154' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84296075804984, 33.63821815] },
+      geometry: { type: 'Point', coordinates: [-117.8429608, 33.63821815] },
       properties: { state: 'California', capital: 'Record 155' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83973625973135, 33.64072755] },
+      geometry: { type: 'Point', coordinates: [-117.8397363, 33.64072755] },
       properties: { state: 'California', capital: 'Record 156' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8429861110819, 33.63734305] },
+      geometry: { type: 'Point', coordinates: [-117.8429861, 33.63734305] },
       properties: { state: 'California', capital: 'Record 157' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84045607380739, 33.63675661399126] },
+      geometry: { type: 'Point', coordinates: [-117.8404561, 33.63675661399126] },
       properties: { state: 'California', capital: 'Record 158' },
     },
     {
@@ -803,22 +803,22 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84313396821275, 33.6382284] },
+      geometry: { type: 'Point', coordinates: [-117.843134, 33.6382284] },
       properties: { state: 'California', capital: 'Record 161' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83930268854267, 33.64216382461485] },
+      geometry: { type: 'Point', coordinates: [-117.8393027, 33.64216382461485] },
       properties: { state: 'California', capital: 'Record 162' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83886609446924, 33.64080305] },
+      geometry: { type: 'Point', coordinates: [-117.8388661, 33.64080305] },
       properties: { state: 'California', capital: 'Record 163' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84236955633877, 33.6378668] },
+      geometry: { type: 'Point', coordinates: [-117.8423696, 33.6378668] },
       properties: { state: 'California', capital: 'Record 164' },
     },
     {
@@ -828,42 +828,42 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84082301519805, 33.63519195] },
+      geometry: { type: 'Point', coordinates: [-117.840823, 33.63519195] },
       properties: { state: 'California', capital: 'Record 166' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84014915562372, 33.636710411525556] },
+      geometry: { type: 'Point', coordinates: [-117.8401492, 33.636710411525556] },
       properties: { state: 'California', capital: 'Record 167' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.837441, 33.642618] },
+      geometry: { type: 'Point', coordinates: [-117.8375487, 33.6438755] },
       properties: { state: 'California', capital: 'Record 168' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83804654857973, 33.636434550000004] },
+      geometry: { type: 'Point', coordinates: [-117.8380465, 33.636434550000004] },
       properties: { state: 'California', capital: 'Record 169' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83907793869604, 33.641544800000005] },
+      geometry: { type: 'Point', coordinates: [-117.8390779, 33.641544800000005] },
       properties: { state: 'California', capital: 'Record 170' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84316674592493, 33.6394576] },
+      geometry: { type: 'Point', coordinates: [-117.8431667, 33.6394576] },
       properties: { state: 'California', capital: 'Record 171' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8373239631755, 33.63805165] },
+      geometry: { type: 'Point', coordinates: [-117.837324, 33.63805165] },
       properties: { state: 'California', capital: 'Record 172' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84036058731115, 33.63660691495729] },
+      geometry: { type: 'Point', coordinates: [-117.8403606, 33.63660691495729] },
       properties: { state: 'California', capital: 'Record 173' },
     },
     {
@@ -873,92 +873,92 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84002204618142, 33.6397911] },
+      geometry: { type: 'Point', coordinates: [-117.840022, 33.6397911] },
       properties: { state: 'California', capital: 'Record 175' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83761653922537, 33.63832915] },
+      geometry: { type: 'Point', coordinates: [-117.8376165, 33.63832915] },
       properties: { state: 'California', capital: 'Record 176' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83898384607602, 33.64107425] },
+      geometry: { type: 'Point', coordinates: [-117.8389838, 33.64107425] },
       properties: { state: 'California', capital: 'Record 177' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84272183464125, 33.6369344] },
+      geometry: { type: 'Point', coordinates: [-117.8427218, 33.6369344] },
       properties: { state: 'California', capital: 'Record 178' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83492958770285, 33.64075735] },
+      geometry: { type: 'Point', coordinates: [-117.8349296, 33.64075735] },
       properties: { state: 'California', capital: 'Record 179' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8357082365502, 33.64121165] },
+      geometry: { type: 'Point', coordinates: [-117.8357082, 33.64121165] },
       properties: { state: 'California', capital: 'Record 180' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84303703651365, 33.63936835] },
+      geometry: { type: 'Point', coordinates: [-117.843037, 33.63936835] },
       properties: { state: 'California', capital: 'Record 181' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83706359133222, 33.63814335] },
+      geometry: { type: 'Point', coordinates: [-117.8370636, 33.63814335] },
       properties: { state: 'California', capital: 'Record 182' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83944842771524, 33.63895395] },
+      geometry: { type: 'Point', coordinates: [-117.8394484, 33.63895395] },
       properties: { state: 'California', capital: 'Record 183' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83557291419427, 33.6411204] },
+      geometry: { type: 'Point', coordinates: [-117.8355729, 33.6411204] },
       properties: { state: 'California', capital: 'Record 184' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84206650722477, 33.636756950000006] },
+      geometry: { type: 'Point', coordinates: [-117.8420665, 33.636756950000006] },
       properties: { state: 'California', capital: 'Record 185' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83852586201371, 33.638219899999996] },
+      geometry: { type: 'Point', coordinates: [-117.8385259, 33.638219899999996] },
       properties: { state: 'California', capital: 'Record 186' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83675233246599, 33.639743559082326] },
+      geometry: { type: 'Point', coordinates: [-117.8367523, 33.639743559082326] },
       properties: { state: 'California', capital: 'Record 187' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84342377774195, 33.639649649999996] },
+      geometry: { type: 'Point', coordinates: [-117.8434238, 33.639649649999996] },
       properties: { state: 'California', capital: 'Record 188' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84235223042076, 33.636891399999996] },
+      geometry: { type: 'Point', coordinates: [-117.8423522, 33.636891399999996] },
       properties: { state: 'California', capital: 'Record 189' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84009863719541, 33.64124975] },
+      geometry: { type: 'Point', coordinates: [-117.8400986, 33.64124975] },
       properties: { state: 'California', capital: 'Record 190' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84082690344479, 33.63566185] },
+      geometry: { type: 'Point', coordinates: [-117.8408269, 33.63566185] },
       properties: { state: 'California', capital: 'Record 191' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83963209664525, 33.642057897814084] },
+      geometry: { type: 'Point', coordinates: [-117.8396321, 33.642057897814084] },
       properties: { state: 'California', capital: 'Record 192' },
     },
     {
@@ -968,22 +968,22 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83899597389937, 33.642271449999996] },
+      geometry: { type: 'Point', coordinates: [-117.838996, 33.642271449999996] },
       properties: { state: 'California', capital: 'Record 194' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84242345884832, 33.638011500000005] },
+      geometry: { type: 'Point', coordinates: [-117.8424235, 33.638011500000005] },
       properties: { state: 'California', capital: 'Record 195' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83382552589714, 33.63981505] },
+      geometry: { type: 'Point', coordinates: [-117.8338255, 33.63981505] },
       properties: { state: 'California', capital: 'Record 196' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83836242667567, 33.6408731] },
+      geometry: { type: 'Point', coordinates: [-117.8383624, 33.6408731] },
       properties: { state: 'California', capital: 'Record 197' },
     },
     {
@@ -993,17 +993,17 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83949987535541, 33.64216331183813] },
+      geometry: { type: 'Point', coordinates: [-117.8394999, 33.64216331183813] },
       properties: { state: 'California', capital: 'Record 199' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8387704403844, 33.6393272] },
+      geometry: { type: 'Point', coordinates: [-117.8387704, 33.6393272] },
       properties: { state: 'California', capital: 'Record 200' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84165928054313, 33.639342] },
+      geometry: { type: 'Point', coordinates: [-117.8416593, 33.639342] },
       properties: { state: 'California', capital: 'Record 201' },
     },
     {
@@ -1013,17 +1013,17 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84151975256597, 33.64016619241813] },
+      geometry: { type: 'Point', coordinates: [-117.8415198, 33.64016619241813] },
       properties: { state: 'California', capital: 'Record 203' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84136992300074, 33.6395893] },
+      geometry: { type: 'Point', coordinates: [-117.8413699, 33.6395893] },
       properties: { state: 'California', capital: 'Record 204' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84205586338834, 33.63944375] },
+      geometry: { type: 'Point', coordinates: [-117.8420559, 33.63944375] },
       properties: { state: 'California', capital: 'Record 205' },
     },
     {
@@ -1033,72 +1033,72 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83932472325017, 33.64216654122262] },
+      geometry: { type: 'Point', coordinates: [-117.8393247, 33.64216654122262] },
       properties: { state: 'California', capital: 'Record 207' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83947979480716, 33.64217106106096] },
+      geometry: { type: 'Point', coordinates: [-117.8394798, 33.64217106106096] },
       properties: { state: 'California', capital: 'Record 208' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83964091071752, 33.642014378332256] },
+      geometry: { type: 'Point', coordinates: [-117.8396409, 33.642014378332256] },
       properties: { state: 'California', capital: 'Record 209' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84048225904591, 33.63674229119301] },
+      geometry: { type: 'Point', coordinates: [-117.8404823, 33.63674229119301] },
       properties: { state: 'California', capital: 'Record 210' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83782002555002, 33.63863515] },
+      geometry: { type: 'Point', coordinates: [-117.83782, 33.63863515] },
       properties: { state: 'California', capital: 'Record 211' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83951893717487, 33.642151929600615] },
+      geometry: { type: 'Point', coordinates: [-117.8395189, 33.642151929600615] },
       properties: { state: 'California', capital: 'Record 212' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83702042819783, 33.637708849999996] },
+      geometry: { type: 'Point', coordinates: [-117.8370204, 33.637708849999996] },
       properties: { state: 'California', capital: 'Record 213' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83966030192424, 33.64190519037209] },
+      geometry: { type: 'Point', coordinates: [-117.8396603, 33.64190519037209] },
       properties: { state: 'California', capital: 'Record 214' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83928065383519, 33.64216110800708] },
+      geometry: { type: 'Point', coordinates: [-117.8392807, 33.64216110800708] },
       properties: { state: 'California', capital: 'Record 215' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84192259895013, 33.6386975] },
+      geometry: { type: 'Point', coordinates: [-117.8419226, 33.6386975] },
       properties: { state: 'California', capital: 'Record 216' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83582046754108, 33.640090900000004] },
+      geometry: { type: 'Point', coordinates: [-117.8358205, 33.640090900000004] },
       properties: { state: 'California', capital: 'Record 217' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83964531775365, 33.641992618591345] },
+      geometry: { type: 'Point', coordinates: [-117.8396453, 33.641992618591345] },
       properties: { state: 'California', capital: 'Record 218' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84234045836143, 33.63641895] },
+      geometry: { type: 'Point', coordinates: [-117.8423405, 33.63641895] },
       properties: { state: 'California', capital: 'Record 219' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8385573768673, 33.6401878] },
+      geometry: { type: 'Point', coordinates: [-117.8385574, 33.6401878] },
       properties: { state: 'California', capital: 'Record 220' },
     },
     {
@@ -1108,42 +1108,42 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83966440417743, 33.64186097719887] },
+      geometry: { type: 'Point', coordinates: [-117.8396644, 33.64186097719887] },
       properties: { state: 'California', capital: 'Record 222' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84211825791145, 33.63660484787232] },
+      geometry: { type: 'Point', coordinates: [-117.8421183, 33.63660484787232] },
       properties: { state: 'California', capital: 'Record 223' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83907067542825, 33.640269599999996] },
+      geometry: { type: 'Point', coordinates: [-117.8390707, 33.640269599999996] },
       properties: { state: 'California', capital: 'Record 224' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8378658924247, 33.63819585] },
+      geometry: { type: 'Point', coordinates: [-117.8378659, 33.63819585] },
       properties: { state: 'California', capital: 'Record 225' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84026085685524, 33.635054749999995] },
+      geometry: { type: 'Point', coordinates: [-117.8402609, 33.635054749999995] },
       properties: { state: 'California', capital: 'Record 226' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84043736036755, 33.6397659] },
+      geometry: { type: 'Point', coordinates: [-117.8404374, 33.6397659] },
       properties: { state: 'California', capital: 'Record 227' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83674492904852, 33.63973455286314] },
+      geometry: { type: 'Point', coordinates: [-117.8367449, 33.63973455286314] },
       properties: { state: 'California', capital: 'Record 228' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83965825079764, 33.641927296958706] },
+      geometry: { type: 'Point', coordinates: [-117.8396583, 33.641927296958706] },
       properties: { state: 'California', capital: 'Record 229' },
     },
     {
@@ -1153,22 +1153,22 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83810364648683, 33.63690545] },
+      geometry: { type: 'Point', coordinates: [-117.8381036, 33.63690545] },
       properties: { state: 'California', capital: 'Record 231' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8385256299326, 33.64145845] },
+      geometry: { type: 'Point', coordinates: [-117.8385256, 33.64145845] },
       properties: { state: 'California', capital: 'Record 232' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83940973760312, 33.64168624403573] },
+      geometry: { type: 'Point', coordinates: [-117.8394097, 33.64168624403573] },
       properties: { state: 'California', capital: 'Record 233' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84132691180812, 33.64023084429083] },
+      geometry: { type: 'Point', coordinates: [-117.8413269, 33.64023084429083] },
       properties: { state: 'California', capital: 'Record 234' },
     },
     {
@@ -1178,17 +1178,17 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8391932138952, 33.64073745] },
+      geometry: { type: 'Point', coordinates: [-117.8391932, 33.64073745] },
       properties: { state: 'California', capital: 'Record 236' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83521549186335, 33.6409746] },
+      geometry: { type: 'Point', coordinates: [-117.8352155, 33.6409746] },
       properties: { state: 'California', capital: 'Record 237' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84306500149128, 33.6377078] },
+      geometry: { type: 'Point', coordinates: [-117.843065, 33.6377078] },
       properties: { state: 'California', capital: 'Record 238' },
     },
     {
@@ -1198,47 +1198,47 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84234226560773, 33.6389916] },
+      geometry: { type: 'Point', coordinates: [-117.8423423, 33.6389916] },
       properties: { state: 'California', capital: 'Record 240' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84051244357883, 33.638944] },
+      geometry: { type: 'Point', coordinates: [-117.8405124, 33.638944] },
       properties: { state: 'California', capital: 'Record 241' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83986625200491, 33.64044945] },
+      geometry: { type: 'Point', coordinates: [-117.8398663, 33.64044945] },
       properties: { state: 'California', capital: 'Record 242' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84049307131336, 33.638944] },
+      geometry: { type: 'Point', coordinates: [-117.8404931, 33.638944] },
       properties: { state: 'California', capital: 'Record 243' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8394313092725, 33.6415411] },
+      geometry: { type: 'Point', coordinates: [-117.8394313, 33.6415411] },
       properties: { state: 'California', capital: 'Record 244' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83668940341747, 33.63966700621919] },
+      geometry: { type: 'Point', coordinates: [-117.8366894, 33.63966700621919] },
       properties: { state: 'California', capital: 'Record 245' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83631596261878, 33.64157515] },
+      geometry: { type: 'Point', coordinates: [-117.836316, 33.64157515] },
       properties: { state: 'California', capital: 'Record 246' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8397681021766, 33.6403142] },
+      geometry: { type: 'Point', coordinates: [-117.8397681, 33.6403142] },
       properties: { state: 'California', capital: 'Record 247' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83808625292897, 33.63913165] },
+      geometry: { type: 'Point', coordinates: [-117.8380863, 33.63913165] },
       properties: { state: 'California', capital: 'Record 248' },
     },
     {
@@ -1248,7 +1248,7 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83811181708855, 33.64137699085836] },
+      geometry: { type: 'Point', coordinates: [-117.8381118, 33.64137699085836] },
       properties: { state: 'California', capital: 'Record 250' },
     },
     {
@@ -1258,22 +1258,22 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84049496087437, 33.6351918] },
+      geometry: { type: 'Point', coordinates: [-117.840495, 33.6351918] },
       properties: { state: 'California', capital: 'Record 252' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83765160215256, 33.6376313] },
+      geometry: { type: 'Point', coordinates: [-117.8376516, 33.6376313] },
       properties: { state: 'California', capital: 'Record 253' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83682536955104, 33.641760500000004] },
+      geometry: { type: 'Point', coordinates: [-117.8368254, 33.641760500000004] },
       properties: { state: 'California', capital: 'Record 254' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8379128214958, 33.6420915] },
+      geometry: { type: 'Point', coordinates: [-117.8379128, 33.6420915] },
       properties: { state: 'California', capital: 'Record 255' },
     },
     {
@@ -1283,67 +1283,67 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8376937438099, 33.6386982] },
+      geometry: { type: 'Point', coordinates: [-117.8376937, 33.6386982] },
       properties: { state: 'California', capital: 'Record 257' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83674599596526, 33.637332650000005] },
+      geometry: { type: 'Point', coordinates: [-117.836746, 33.637332650000005] },
       properties: { state: 'California', capital: 'Record 258' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8397897235534, 33.642193000000006] },
+      geometry: { type: 'Point', coordinates: [-117.8397897, 33.642193000000006] },
       properties: { state: 'California', capital: 'Record 259' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8423868838598, 33.640469100000004] },
+      geometry: { type: 'Point', coordinates: [-117.8423869, 33.640469100000004] },
       properties: { state: 'California', capital: 'Record 260' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84258575209938, 33.6386513] },
+      geometry: { type: 'Point', coordinates: [-117.8425858, 33.6386513] },
       properties: { state: 'California', capital: 'Record 261' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84109081025724, 33.6344852] },
+      geometry: { type: 'Point', coordinates: [-117.8410908, 33.6344852] },
       properties: { state: 'California', capital: 'Record 262' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83717178016457, 33.63807185] },
+      geometry: { type: 'Point', coordinates: [-117.8371718, 33.63807185] },
       properties: { state: 'California', capital: 'Record 263' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84357085141548, 33.63972375] },
+      geometry: { type: 'Point', coordinates: [-117.8435709, 33.63972375] },
       properties: { state: 'California', capital: 'Record 264' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84010681387755, 33.640902999999994] },
+      geometry: { type: 'Point', coordinates: [-117.8401068, 33.640902999999994] },
       properties: { state: 'California', capital: 'Record 265' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83983841643334, 33.6354678] },
+      geometry: { type: 'Point', coordinates: [-117.8398384, 33.6354678] },
       properties: { state: 'California', capital: 'Record 266' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84098468796749, 33.6399247] },
+      geometry: { type: 'Point', coordinates: [-117.8409847, 33.6399247] },
       properties: { state: 'California', capital: 'Record 267' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83961424627218, 33.642095018413016] },
+      geometry: { type: 'Point', coordinates: [-117.8396142, 33.642095018413016] },
       properties: { state: 'California', capital: 'Record 268' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83732281250866, 33.636932099999996] },
+      geometry: { type: 'Point', coordinates: [-117.8373228, 33.636932099999996] },
       properties: { state: 'California', capital: 'Record 269' },
     },
     {
@@ -1353,22 +1353,22 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83895847974823, 33.639716] },
+      geometry: { type: 'Point', coordinates: [-117.8389585, 33.639716] },
       properties: { state: 'California', capital: 'Record 271' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83771219686226, 33.64173875] },
+      geometry: { type: 'Point', coordinates: [-117.8377122, 33.64173875] },
       properties: { state: 'California', capital: 'Record 272' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84025605538503, 33.63985595] },
+      geometry: { type: 'Point', coordinates: [-117.8402561, 33.63985595] },
       properties: { state: 'California', capital: 'Record 273' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83800277770271, 33.6381262] },
+      geometry: { type: 'Point', coordinates: [-117.8380028, 33.6381262] },
       properties: { state: 'California', capital: 'Record 274' },
     },
     {
@@ -1383,22 +1383,22 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84134066389035, 33.64024633959476] },
+      geometry: { type: 'Point', coordinates: [-117.8413407, 33.64024633959476] },
       properties: { state: 'California', capital: 'Record 277' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84244347280877, 33.6376743] },
+      geometry: { type: 'Point', coordinates: [-117.8424435, 33.6376743] },
       properties: { state: 'California', capital: 'Record 278' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84014086671779, 33.636714058644166] },
+      geometry: { type: 'Point', coordinates: [-117.8401409, 33.636714058644166] },
       properties: { state: 'California', capital: 'Record 279' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84185070885056, 33.6394076] },
+      geometry: { type: 'Point', coordinates: [-117.8418507, 33.6394076] },
       properties: { state: 'California', capital: 'Record 280' },
     },
     {
@@ -1408,87 +1408,87 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84323065851333, 33.638966100000005] },
+      geometry: { type: 'Point', coordinates: [-117.8432307, 33.638966100000005] },
       properties: { state: 'California', capital: 'Record 282' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83952773806296, 33.64113065] },
+      geometry: { type: 'Point', coordinates: [-117.8395277, 33.64113065] },
       properties: { state: 'California', capital: 'Record 283' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8389469707856, 33.63928425] },
+      geometry: { type: 'Point', coordinates: [-117.838947, 33.63928425] },
       properties: { state: 'California', capital: 'Record 284' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83965413182592, 33.641949099109524] },
+      geometry: { type: 'Point', coordinates: [-117.8396541, 33.641949099109524] },
       properties: { state: 'California', capital: 'Record 285' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8439746325904, 33.63876335] },
+      geometry: { type: 'Point', coordinates: [-117.8439746, 33.63876335] },
       properties: { state: 'California', capital: 'Record 286' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83383505386362, 33.640209999999996] },
+      geometry: { type: 'Point', coordinates: [-117.8338351, 33.640209999999996] },
       properties: { state: 'California', capital: 'Record 287' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83629130732072, 33.6404125] },
+      geometry: { type: 'Point', coordinates: [-117.8362913, 33.6404125] },
       properties: { state: 'California', capital: 'Record 288' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83871466310336, 33.64024245] },
+      geometry: { type: 'Point', coordinates: [-117.8387147, 33.64024245] },
       properties: { state: 'California', capital: 'Record 289' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84096248031454, 33.635569000000004] },
+      geometry: { type: 'Point', coordinates: [-117.8409625, 33.635569000000004] },
       properties: { state: 'California', capital: 'Record 290' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.842596089664, 33.637562849999995] },
+      geometry: { type: 'Point', coordinates: [-117.8425961, 33.637562849999995] },
       properties: { state: 'California', capital: 'Record 291' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84379196704947, 33.63933055] },
+      geometry: { type: 'Point', coordinates: [-117.843792, 33.63933055] },
       properties: { state: 'California', capital: 'Record 292' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84053476639804, 33.635747] },
+      geometry: { type: 'Point', coordinates: [-117.8405348, 33.635747] },
       properties: { state: 'California', capital: 'Record 293' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83746376009545, 33.637310049999996] },
+      geometry: { type: 'Point', coordinates: [-117.8374638, 33.637310049999996] },
       properties: { state: 'California', capital: 'Record 294' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83983499666247, 33.63907275] },
+      geometry: { type: 'Point', coordinates: [-117.839835, 33.63907275] },
       properties: { state: 'California', capital: 'Record 295' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84093606337498, 33.634543] },
+      geometry: { type: 'Point', coordinates: [-117.8409361, 33.634543] },
       properties: { state: 'California', capital: 'Record 296' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83720313920385, 33.637484549999996] },
+      geometry: { type: 'Point', coordinates: [-117.8372031, 33.637484549999996] },
       properties: { state: 'California', capital: 'Record 297' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8357341360063, 33.640797199999994] },
+      geometry: { type: 'Point', coordinates: [-117.8357341, 33.640797199999994] },
       properties: { state: 'California', capital: 'Record 298' },
     },
     {
@@ -1498,17 +1498,17 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83407660238476, 33.64032915] },
+      geometry: { type: 'Point', coordinates: [-117.8340766, 33.64032915] },
       properties: { state: 'California', capital: 'Record 300' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83927395693182, 33.64020715] },
+      geometry: { type: 'Point', coordinates: [-117.839274, 33.64020715] },
       properties: { state: 'California', capital: 'Record 301' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83943539332545, 33.6421714373447] },
+      geometry: { type: 'Point', coordinates: [-117.8394354, 33.64217144] },
       properties: { state: 'California', capital: 'Record 302' },
     },
     {
@@ -1518,47 +1518,47 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84201402181827, 33.636286431196] },
+      geometry: { type: 'Point', coordinates: [-117.842014, 33.63628643] },
       properties: { state: 'California', capital: 'Record 304' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84040915238668, 33.636582548974374] },
+      geometry: { type: 'Point', coordinates: [-117.8404092, 33.636582548974374] },
       properties: { state: 'California', capital: 'Record 305' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83989873079527, 33.6394397] },
+      geometry: { type: 'Point', coordinates: [-117.8398987, 33.6394397] },
       properties: { state: 'California', capital: 'Record 306' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83761649762135, 33.6379252] },
+      geometry: { type: 'Point', coordinates: [-117.8376165, 33.6379252] },
       properties: { state: 'California', capital: 'Record 307' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8431018022275, 33.64012505] },
+      geometry: { type: 'Point', coordinates: [-117.8431018, 33.64012505] },
       properties: { state: 'California', capital: 'Record 308' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84195675020071, 33.640326397918415] },
+      geometry: { type: 'Point', coordinates: [-117.8419568, 33.640326397918415] },
       properties: { state: 'California', capital: 'Record 309' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84043495451695, 33.638944] },
+      geometry: { type: 'Point', coordinates: [-117.840435, 33.638944] },
       properties: { state: 'California', capital: 'Record 310' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83674863075726, 33.63973905597273] },
+      geometry: { type: 'Point', coordinates: [-117.8367486, 33.63973905597273] },
       properties: { state: 'California', capital: 'Record 311' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84177335180622, 33.639886849999996] },
+      geometry: { type: 'Point', coordinates: [-117.8417734, 33.639886849999996] },
       properties: { state: 'California', capital: 'Record 312' },
     },
     {
@@ -1568,7 +1568,7 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8396882845013, 33.6410811] },
+      geometry: { type: 'Point', coordinates: [-117.8396883, 33.6410811] },
       properties: { state: 'California', capital: 'Record 314' },
     },
     {
@@ -1578,87 +1578,87 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83535000985334, 33.6410676] },
+      geometry: { type: 'Point', coordinates: [-117.83535, 33.6410676] },
       properties: { state: 'California', capital: 'Record 316' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83796592594149, 33.63859975] },
+      geometry: { type: 'Point', coordinates: [-117.8379659, 33.63859975] },
       properties: { state: 'California', capital: 'Record 317' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83977613480818, 33.6415554] },
+      geometry: { type: 'Point', coordinates: [-117.8397761, 33.6415554] },
       properties: { state: 'California', capital: 'Record 318' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84046480222023, 33.63675183972517] },
+      geometry: { type: 'Point', coordinates: [-117.8404648, 33.63675183972517] },
       properties: { state: 'California', capital: 'Record 319' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84223703847104, 33.63950245] },
+      geometry: { type: 'Point', coordinates: [-117.842237, 33.63950245] },
       properties: { state: 'California', capital: 'Record 320' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83940521957594, 33.63820065] },
+      geometry: { type: 'Point', coordinates: [-117.8394052, 33.63820065] },
       properties: { state: 'California', capital: 'Record 321' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83846498530951, 33.639452399999996] },
+      geometry: { type: 'Point', coordinates: [-117.838465, 33.639452399999996] },
       properties: { state: 'California', capital: 'Record 322' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84337229484954, 33.6390338] },
+      geometry: { type: 'Point', coordinates: [-117.8433723, 33.6390338] },
       properties: { state: 'California', capital: 'Record 323' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83917248427898, 33.64110895] },
+      geometry: { type: 'Point', coordinates: [-117.8391725, 33.64110895] },
       properties: { state: 'California', capital: 'Record 324' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84202547077165, 33.6387969] },
+      geometry: { type: 'Point', coordinates: [-117.8420255, 33.6387969] },
       properties: { state: 'California', capital: 'Record 325' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84010103860959, 33.641412] },
+      geometry: { type: 'Point', coordinates: [-117.840101, 33.641412] },
       properties: { state: 'California', capital: 'Record 326' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84275940923585, 33.638696499999995] },
+      geometry: { type: 'Point', coordinates: [-117.8427594, 33.638696499999995] },
       properties: { state: 'California', capital: 'Record 327' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83921709078015, 33.63821585] },
+      geometry: { type: 'Point', coordinates: [-117.8392171, 33.63821585] },
       properties: { state: 'California', capital: 'Record 328' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8395424821738, 33.64169736057613] },
+      geometry: { type: 'Point', coordinates: [-117.8395425, 33.64169736057613] },
       properties: { state: 'California', capital: 'Record 329' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8342872496526, 33.64038545] },
+      geometry: { type: 'Point', coordinates: [-117.8342872, 33.64038545] },
       properties: { state: 'California', capital: 'Record 330' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83400864293327, 33.639888] },
+      geometry: { type: 'Point', coordinates: [-117.8340086, 33.639888] },
       properties: { state: 'California', capital: 'Record 331' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83811653202551, 33.6385608] },
+      geometry: { type: 'Point', coordinates: [-117.8381165, 33.6385608] },
       properties: { state: 'California', capital: 'Record 332' },
     },
     {
@@ -1668,27 +1668,27 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83825446119748, 33.6417049] },
+      geometry: { type: 'Point', coordinates: [-117.8382545, 33.6417049] },
       properties: { state: 'California', capital: 'Record 334' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83878311176178, 33.639771100000004] },
+      geometry: { type: 'Point', coordinates: [-117.8387831, 33.639771100000004] },
       properties: { state: 'California', capital: 'Record 335' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83889158119067, 33.641506250000006] },
+      geometry: { type: 'Point', coordinates: [-117.8388916, 33.641506250000006] },
       properties: { state: 'California', capital: 'Record 336' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84133149583553, 33.64023600939215] },
+      geometry: { type: 'Point', coordinates: [-117.8413315, 33.64023600939215] },
       properties: { state: 'California', capital: 'Record 337' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83778206057961, 33.6392714] },
+      geometry: { type: 'Point', coordinates: [-117.8377821, 33.6392714] },
       properties: { state: 'California', capital: 'Record 338' },
     },
     {
@@ -1703,17 +1703,17 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84277423829855, 33.63814995] },
+      geometry: { type: 'Point', coordinates: [-117.8427742, 33.63814995] },
       properties: { state: 'California', capital: 'Record 341' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83989220992561, 33.6418582] },
+      geometry: { type: 'Point', coordinates: [-117.8398922, 33.6418582] },
       properties: { state: 'California', capital: 'Record 342' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84312839206093, 33.63717925] },
+      geometry: { type: 'Point', coordinates: [-117.8431284, 33.63717925] },
       properties: { state: 'California', capital: 'Record 343' },
     },
     {
@@ -1723,42 +1723,42 @@ const usaCapitals = {
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84135835325841, 33.6352936] },
+      geometry: { type: 'Point', coordinates: [-117.8413584, 33.6352936] },
       properties: { state: 'California', capital: 'Record 345' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83770979499091, 33.6378029] },
+      geometry: { type: 'Point', coordinates: [-117.8377098, 33.6378029] },
       properties: { state: 'California', capital: 'Record 346' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83461804078668, 33.64057035] },
+      geometry: { type: 'Point', coordinates: [-117.834618, 33.64057035] },
       properties: { state: 'California', capital: 'Record 347' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84201130013228, 33.635431100000005] },
+      geometry: { type: 'Point', coordinates: [-117.8420113, 33.635431100000005] },
       properties: { state: 'California', capital: 'Record 348' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.8374683530858, 33.638] },
+      geometry: { type: 'Point', coordinates: [-117.8374684, 33.638] },
       properties: { state: 'California', capital: 'Record 349' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.84113808458221, 33.64025255] },
+      geometry: { type: 'Point', coordinates: [-117.8411381, 33.64025255] },
       properties: { state: 'California', capital: 'Record 350' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83777040110479, 33.64263981808368] },
+      geometry: { type: 'Point', coordinates: [-117.8377864, 33.6442056] },
       properties: { state: 'California', capital: 'Record 351' },
     },
     {
       type: 'Feature',
-      geometry: { type: 'Point', coordinates: [-117.83795521320287, 33.63922625] },
+      geometry: { type: 'Point', coordinates: [-117.8379552, 33.63922625] },
       properties: { state: 'California', capital: 'Record 352' },
     },
     {
